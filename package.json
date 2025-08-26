@@ -22,7 +22,7 @@
   ],
   "author": "Reka AI",
   "license": "ISC",
-  "packageManager": "pnpm@9.4.0",
+  "packageManager": "pnpm@10.15.0",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.17.0",
     "mcp-handler": "^1.0.1",
