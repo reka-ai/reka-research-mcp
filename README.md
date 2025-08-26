@@ -23,7 +23,7 @@ Add this configuration to your Claude Desktop `claude_desktop_config.json` file:
       "args": [
         "-y",
         "mcp-remote",
-        "https://mcp-server-nine-bice.vercel.app/mcp",
+        "https://reka-research-mcp.vercel.app/mcp",
         "--header",
         "Authorization: Bearer $REKA_API_KEY"
       ],
