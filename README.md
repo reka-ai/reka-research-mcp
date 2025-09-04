@@ -2,7 +2,7 @@
 
 A Model Context Protocol (MCP) server providing AI-powered fact-checking and similarity search using Reka Research API. This server is hosted remotely and ready to use - no local installation required!
 
-[![Join our Discord](assets/discord-invite.png)](https://discord.com/invite/MTRJEBvH)
+[![Join our Discord](assets/discord-invite.png)](https://link.reka.ai/discord)
 
 ## Prerequisites
 
