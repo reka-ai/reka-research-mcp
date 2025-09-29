@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "dev": "tsx api/local-server.ts",
     "test": "node scripts/test-client.mjs",
     "test:http": "node scripts/test-streamable-http-client.mjs",
     "build": "tsc --noEmit",
@@ -30,6 +31,7 @@
   },
   "devDependencies": {
     "@types/node": "^22.13.10",
+    "tsx": "^4.20.5",
     "typescript": "^5.0.0"
   }
 }
